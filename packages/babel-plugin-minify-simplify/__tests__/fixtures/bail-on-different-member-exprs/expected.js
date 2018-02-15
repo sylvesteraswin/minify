@@ -1,1 +1,0 @@
-a ? this.a = 1 : this.b = 2;
